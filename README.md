@@ -34,7 +34,7 @@ A brief description of what Project 3 is about and what technologies it uses.
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/tapos-chandro)
-- [Twitter](https://twitter.com/tapos_chandro)
+- [Twitter](https://twitter.com/tapos_chandro1)
 - [Personal Blog](https://taposchandro.com/blog)
 
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or have any questions.
