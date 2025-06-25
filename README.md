@@ -12,6 +12,11 @@ Welcome to my GitHub profile! I am a dedicated and aspiring web developer with a
 - 💬 Feel free to ask me about JavaScript, and web development.
 - 📫 Reach out to me at: [taposchandro231@gmail.com.com]
 
+## My Skills 
+ <img src="./icons/React-Dark.svg" width="48"> 
+<img src="./icons/JavaScript.svg" width="48">
+<img src="./icons/ExpressJS-Dark.svg" width="48">   
+<img src="./icons/PhpStorm-Dark.svg" width="48">
 
 ## GitHub Stats
 
