@@ -16,6 +16,10 @@ Welcome to my GitHub profile! I am a dedicated and aspiring web developer with a
  <img src="./icons/React-Dark.svg" width="48"> 
 <img src="./icons/JavaScript.svg" width="48">
 <img src="./icons/ExpressJS-Dark.svg" width="48">   
+<img src="./icons/MongoDB.svg" width="48">
+<img src="./icons/TailwindCSS-Dark.svg" width="48">  
+<img src="./icons/HTML.svg" width="48"> 
+<img src="./icons/Netlify-Dark.svg" width="48">
 <img src="./icons/PhpStorm-Dark.svg" width="48">
 
 ## GitHub Stats
