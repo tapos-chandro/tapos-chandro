@@ -24,15 +24,15 @@ Welcome to my GitHub profile! I am a dedicated and aspiring web developer with a
 
 Here are some of my notable projects:
 
-### 🔹 [Mini Missions](https://github.com/tapos-chandro/mini-missions)
+### 🔹 [Mini Missions](https://mini-missions.netlify.app/)
 A micro-tasking and earning platform with role-based authentication, task posting, and coin-based payment system.  
 **Tech Used:** React, Node.js, MongoDB, Stripe, Firebase, Tailwind CSS
 
-### 🔹 [Crowdfund](https://github.com/tapos-chandro/crowdfund)
+### 🔹 [Crowdfund](https://helpful-mooncake-cfc5b8.netlify.app/)
 A crowdfunding application where users can create campaigns and accept contributions.  
 **Tech Used:** React, Express, MongoDB, Tailwind CSS
 
-### 🔹 [Blog Website](https://github.com/tapos-chandro/blog-site)
+### 🔹 [Blog Website](https://blog-wibsite.netlify.app/)
 A feature-rich blog site with user authentication, comment functionality, and blog editing options.  
 **Tech Used:** React, Node.js, MongoDB, Firebase, Tailwind CSS
 
