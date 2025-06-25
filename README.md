@@ -1,5 +1,6 @@
 
 <img src="./images/Github-bg.jpg">
+
 # Hello, I'm Tapos Chandra! 👋
 
 Welcome to my GitHub profile! I am a dedicated and aspiring web developer with a strong focus on creating responsive, efficient, and scalable web applications. I am passionate about learning emerging technologies, solving real-world problems through code, and contributing to the ecosystem.
