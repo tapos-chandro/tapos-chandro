@@ -1,14 +1,16 @@
-# Hello, I'm Tapos Chandro! 👋
 
-Welcome to my GitHub profile! I'm an enthusiastic developer with a passion for coding, learning new technologies, and contributing to the open-source community.
+<img src="./images/Github-bg.jpg">
+# Hello, I'm Tapos Chandra! 👋
+
+Welcome to my GitHub profile! I am a dedicated and aspiring web developer with a strong focus on creating responsive, efficient, and scalable web applications. I am passionate about learning emerging technologies, solving real-world problems through code, and contributing to the ecosystem.
 
 ## About Me
 
 - 🌱 Currently exploring advanced web development frameworks and backend technologies.
 - 👯 Eager to collaborate on impactful open-source projects.
-- 💬 Feel free to ask me about JavaScript, Python, and web development.
-- 📫 Reach out to me at: [tapos.chandro@example.com](mailto:tapos.chandro@example.com)
-- ⚡ Fun fact: I'm a puzzle aficionado and enjoy playing chess in my free time.
+- 💬 Feel free to ask me about JavaScript, and web development.
+- 📫 Reach out to me at: [taposchandro231@gmail.com.com]
+
 
 ## GitHub Stats
 
@@ -22,19 +24,20 @@ Welcome to my GitHub profile! I'm an enthusiastic developer with a passion for c
 
 Here are some of my notable projects:
 
-### [Project 1](https://github.com/tapos-chandro/project-1)
-A brief description of what Project 1 is about and what technologies it uses.
+### 🔹 [Mini Missions](https://github.com/tapos-chandro/mini-missions)
+A micro-tasking and earning platform with role-based authentication, task posting, and coin-based payment system.  
+**Tech Used:** React, Node.js, MongoDB, Stripe, Firebase, Tailwind CSS
 
-### [Project 2](https://github.com/tapos-chandro/project-2)
-A brief description of what Project 2 is about and what technologies it uses.
+### 🔹 [Crowdfund](https://github.com/tapos-chandro/crowdfund)
+A crowdfunding application where users can create campaigns and accept contributions.  
+**Tech Used:** React, Express, MongoDB, Tailwind CSS
 
-### [Project 3](https://github.com/tapos-chandro/project-3)
-A brief description of what Project 3 is about and what technologies it uses.
+### 🔹 [Blog Website](https://github.com/tapos-chandro/blog-site)
+A feature-rich blog site with user authentication, comment functionality, and blog editing options.  
+**Tech Used:** React, Node.js, MongoDB, Firebase, Tailwind CSS
 
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/tapos-chandro)
-- [Twitter](https://twitter.com/tapos_chandro1)
-- [Personal Blog](https://taposchandro.com/blog)
 
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or have any questions.
