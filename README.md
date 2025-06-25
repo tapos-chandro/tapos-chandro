@@ -13,14 +13,16 @@ Welcome to my GitHub profile! I am a dedicated and aspiring web developer with a
 - 📫 Reach out to me at: [taposchandro231@gmail.com.com]
 
 ## My Skills 
- <img src="./icons/React-Dark.svg" width="48"> 
-<img src="./icons/JavaScript.svg" width="48">
-<img src="./icons/ExpressJS-Dark.svg" width="48">   
-<img src="./icons/MongoDB.svg" width="48">
-<img src="./icons/TailwindCSS-Dark.svg" width="48">  
-<img src="./icons/HTML.svg" width="48"> 
-<img src="./icons/Netlify-Dark.svg" width="48">
-<img src="./icons/PhpStorm-Dark.svg" width="48">
+<div className=" flex gap-4">
+    <img src="./icons/React-Dark.svg" width="48"> 
+    <img src="./icons/JavaScript.svg" width="48">
+    <img src="./icons/ExpressJS-Dark.svg" width="48">   
+    <img src="./icons/MongoDB.svg" width="48">
+    <img src="./icons/TailwindCSS-Dark.svg" width="48">  
+    <img src="./icons/HTML.svg" width="48"> 
+    <img src="./icons/Netlify-Dark.svg" width="48">
+    <img src="./icons/Postman.svg" width="48">
+</div>
 
 ## GitHub Stats
 
